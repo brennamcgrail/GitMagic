@@ -106,4 +106,5 @@ int jmszq6Sentence2();
 int EvanFirstSentence();
 int EvanSecondSentence();
 
-
+int bmmrmxSentence1();
+int bmmrmxSentence2();

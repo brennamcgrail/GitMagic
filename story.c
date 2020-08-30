@@ -149,10 +149,17 @@ int main(void)
     jmszq6Sentence2();
     printf("\n\n");
 
+
 	EvanFirstSentence();
+	printf("\n\n");
+	bmmrmxSentence1();
 	printf("\n\n");
 	EvanSecondSentence();
 	printf("\n\n");
+	bmmrmxSentence2();
+	printf("\n\n");
+
+
 	jlmyghSentence2();
 	printf("\n\n");
 	awjkccSentence2();
